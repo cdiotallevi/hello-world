@@ -1,4 +1,3 @@
 # hello-world
-Sapendo quello che so oggi, avrei forse respirato alla stesso modo
-MyFirstRepository on My owb GitHub
-Sempre che tutto vada a finire bene
+MyFirstRepository on GitHub
+I'm curious to know more about repositories and commits
